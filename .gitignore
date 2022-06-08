@@ -1,2 +1,7 @@
 0_datasets/*
 !0_datasets/.gitkeep
+bin/*
+lib/*
+share/*
+pyvenv.cfg
+.ipynb_checkpoints/*
